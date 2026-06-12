@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Harshad 👋
 
-<!--
-**Engineer-Harshad/Engineer-Harshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about turning raw data into actionable business insights.
+Building end-to-end analytics projects using Python, SQL, Power BI, and Excel
+to solve real business problems with data.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Languages:** Python · SQL  
+**Libraries:** Pandas · NumPy · Matplotlib · Seaborn · NLTK  
+**Databases:** MySQL  
+**Visualization:** Power BI · Excel  
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Project
+**[Marketing Analytics Pipeline](https://github.com/Engineer-Harshad/marketing-analytics-project)**  
+End-to-end pipeline analyzing customer behavior, conversion funnels, and sentiment
+across 1,363 reviews using MySQL, Python NLTK VADER, and Power BI.
+
+## 📍 Pune, India | Open to Data Analyst roles
