@@ -12,7 +12,7 @@ to solve real business problems with data.
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook  
 
 ## 📁 Featured Project
-**[Marketing Analytics Pipeline](https://github.com/Engineer-Harshad/marketing-analytics-project)**  
+**[E-Commerce Growth Intelligence](https://github.com/Engineer-Harshad/e-commerce-growth-intelligence-project)**  
 End-to-end pipeline analyzing customer behavior, conversion funnels, and sentiment
 across 1,363 reviews using MySQL, Python NLTK VADER, and Power BI.
 
