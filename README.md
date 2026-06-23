@@ -26,4 +26,5 @@ End-to-end Blinkit sales, inventory & customer satisfaction analysis using Excel
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad-deshmukh-8563ab216/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshaddeshmukh2025@gmail.com)
+
+📧 harshaddeshmukh2025@gmail.com
