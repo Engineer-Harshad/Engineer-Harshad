@@ -7,11 +7,17 @@ Currently building skills and projects across **Data Analytics, Manual Testing &
 ## 🛠️ Tech Stack
 
 **Programming:** Python · SQL · Java
+
 **Data Analytics:** Pandas · NumPy · Excel · Power BI · DAX · Power Query
+
 **Manual Testing & QA:** Functional Testing · Test Case Design · Test Scenarios · Smoke Testing · Sanity Testing · Regression Testing · Defect Reporting · SDLC · STLC
+
 **Databases:** MySQL · MS SQL Server · Oracle
+
 **Application & Enterprise Systems:** SAP MM · SAP Logistics · WMS · Production Support · System Validation
+
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook
+
 **AI Tools:** ChatGPT · Claude · Gemini · Prompt Engineering
 
 ## 📁 Featured Projects
