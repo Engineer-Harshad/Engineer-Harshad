@@ -1,14 +1,18 @@
 # Hi, I'm Harshad 👋
-Passionate about turning raw data into actionable business insights.
-Building end-to-end analytics projects using Python, SQL, Power BI, and Excel
-to solve real business problems with data.
+Technology professional with experience in SQL, Python, application support, system validation, and data analytics. 
+I enjoy solving real-world problems through data analysis, troubleshooting, and structured testing.
+
+Currently building skills and projects across **Data Analytics, Manual Testing & QA, and Application Support**, with hands-on experience in SQL, databases, production support, and enterprise applications.
 
 ## 🛠️ Tech Stack
-**Languages:** Python · SQL · Java
-**Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · NLTK
-**Databases:** MySQL · MS SQL Server
-**Visualization:** Power BI · Excel
+
+**Programming:** Python · SQL · Java
+**Data Analytics:** Pandas · NumPy · Excel · Power BI · DAX · Power Query
+**Manual Testing & QA:** Functional Testing · Test Case Design · Test Scenarios · Smoke Testing · Sanity Testing · Regression Testing · Defect Reporting · SDLC · STLC
+**Databases:** MySQL · MS SQL Server · Oracle
+**Application & Enterprise Systems:** SAP MM · SAP Logistics · WMS · Production Support · System Validation
 **Tools:** Git · GitHub · VS Code · Jupyter Notebook
+**AI Tools:** ChatGPT · Claude · Gemini · Prompt Engineering
 
 ## 📁 Featured Projects
 
@@ -21,7 +25,7 @@ End-to-end pipeline analyzing customer behavior, conversion funnels, and sentime
 **[Blinkit Sales Analysis](https://github.com/Engineer-Harshad/blinkit-sales-analysis)**
 End-to-end Blinkit sales, inventory & customer satisfaction analysis using Excel pivot tables and a 3-page interactive dashboard with cross-filtering slicers.
 
-## 📍 Pune, India | Open to Data Analyst roles
+## 📍 Pune, India | Open to Data Analytics, QA/Manual Testing & Application Support roles
 
 ## 📫 Connect With Me
 
