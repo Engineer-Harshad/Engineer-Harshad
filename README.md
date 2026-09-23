@@ -1,8 +1,7 @@
 # Hi, I'm Harshad 👋
-Technology professional with experience in SQL, Python, application support, system validation, and data analytics. 
-I enjoy solving real-world problems through data analysis, troubleshooting, and structured testing.
+Technology professional with experience in SQL, production application support, system validation, troubleshooting, and data analytics. I enjoy solving real-world problems through data analysis, technical troubleshooting, and structured testing.
 
-Currently building skills and projects across **Data Analytics, Manual Testing & QA, and Application Support**, with hands-on experience in SQL, databases, production support, and enterprise applications.
+Currently building skills and projects across **Data Analytics, Manual Testing & QA**, with hands-on experience in SQL, databases, production support, and enterprise applications.
 
 ## 🛠️ Tech Stack
 
