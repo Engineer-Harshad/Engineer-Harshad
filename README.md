@@ -21,6 +21,9 @@ Currently building skills and projects across **Data Analytics, Manual Testing &
 
 ## 📁 Featured Projects
 
+**[End-to-End Supply Chain Performance Analytics](https://github.com/Engineer-Harshad/end-to-end-supply-chain-performance-analytics)**
+End-to-end supply chain analysis covering vendor performance, procurement, logistics, inventory, sales, and profitability using SQL, Python, Pandas, SciPy, and data visualization libraries.
+
 **[Loan Analytics Project](https://github.com/Engineer-Harshad/loan-analytics-project)**
 End-to-end bank loan portfolio analysis using SQL Server, Python, and Power BI to assess risk and default patterns across 38K+ loans.
 
