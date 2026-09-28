@@ -7,7 +7,7 @@ Currently building skills and projects across **Data Analytics, Manual Testing &
 
 **Programming:** Python · SQL · Java
 
-**Data Analytics:** Pandas · NumPy · Excel · Power BI · DAX · Power Query
+**Data Analytics:** Pandas · NumPy · Excel · Power BI · DAX · Power Query · Matplotlib · Seaborn · Scipy · Plotly.express
 
 **Manual Testing & QA:** Functional Testing · Test Case Design · Test Scenarios · Smoke Testing · Sanity Testing · Regression Testing · Defect Reporting · SDLC · STLC
 
